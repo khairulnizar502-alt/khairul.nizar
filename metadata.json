@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quality Analytics Pro",
+  "description": "A professional-grade manufacturing quality dashboard that performs statistical analysis (Cp/Cpk), tolerance checks, and AI-driven process interpretation on CSV data uploads.",
+  "requestFramePermissions": []
+}
